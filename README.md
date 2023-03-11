@@ -1,10 +1,10 @@
-#AluraSpa
-*Um teste aprendendo a usar Sass
+#AluraSpa:
+* Um teste aprendendo a usar Sass
 
 ##Ferramentas utilizadas:
-*HTML
-*CSS
-*Sass
+* HTML
+* CSS
+* Sass
 
 ###Feito por:
-*Matheus Ricardo.
+* Matheus Ricardo.
